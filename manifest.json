@@ -1,6 +1,7 @@
 {
-  "short_name": "template-snap",
-  "name": "The snap template",
+  "short_name": "MEV NFT",
+  "name": "MEV NFT: Full-suite for marketplaces and protocols to detect malicious bot activities via data analytics and machine learning. Think of it as AI based trust scores.",
+
   "icons": [
     {
       "src": "favicon.ico",
